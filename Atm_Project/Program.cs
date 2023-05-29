@@ -12,13 +12,12 @@ namespace Atm_Project
         {
             string isim = "umut";
             string sifre = "123";
-            bool x = true;
             double bakiye;
             double altin;
             public banka()
             {
-                bool a = true;
-                while (a == true)
+                
+                while (true)
                 {
                     Console.WriteLine("Bankamıza hoşgeldiniz. giriş yapmak için 1'e kaydolmak için 2'ye basınız;");
                     var secim = Console.ReadKey().KeyChar;
@@ -26,7 +25,7 @@ namespace Atm_Project
                     {
                         Console.Clear();
                         giris();
-                        a = false;
+                        break;
                     }
                     else if (secim == '2')
                     {
@@ -37,7 +36,7 @@ namespace Atm_Project
                         string yeni_sifre = Console.ReadLine();
                         kayit(yeni_isim, yeni_sifre);
                         giris();
-                        a = false;
+                        break;
                     }
                     else
                     {
@@ -49,7 +48,7 @@ namespace Atm_Project
 
             public void giris()
             {
-                while (x == true) 
+                while (true) 
                 {
                     Console.WriteLine("Kullanıcı isminizi giriniz");
                     string girilen_isim = Console.ReadLine();
@@ -61,7 +60,7 @@ namespace Atm_Project
                         {
                             Console.Clear();
                             Console.WriteLine("Hosgeldiniz.");
-                            x = false;                           
+                            break;                           
                         }
                         else
                         {

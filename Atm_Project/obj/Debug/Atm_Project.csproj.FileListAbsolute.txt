@@ -1,6 +1,8 @@
 C:\Users\win10\Desktop\C# yeni\Atm_Project\Atm_Project\bin\Debug\Atm_Project.exe.config
 C:\Users\win10\Desktop\C# yeni\Atm_Project\Atm_Project\bin\Debug\Atm_Project.exe
 C:\Users\win10\Desktop\C# yeni\Atm_Project\Atm_Project\bin\Debug\Atm_Project.pdb
-C:\Users\win10\Desktop\C# yeni\Atm_Project\Atm_Project\obj\Debug\Atm_Project.csprojAssemblyReference.cache
 C:\Users\win10\Desktop\C# yeni\Atm_Project\Atm_Project\obj\Debug\Atm_Project.exe
 C:\Users\win10\Desktop\C# yeni\Atm_Project\Atm_Project\obj\Debug\Atm_Project.pdb
+C:\Users\win10\Desktop\C# yeni\Atm_Project\Atm_Project\obj\Debug\Atm_Project.csproj.AssemblyReference.cache
+C:\Users\win10\Desktop\C# yeni\Atm_Project\Atm_Project\obj\Debug\Atm_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\win10\Desktop\C# yeni\Atm_Project\Atm_Project\obj\Debug\Atm_Project.csproj.CoreCompileInputs.cache
